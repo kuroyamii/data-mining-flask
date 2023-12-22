@@ -1,0 +1,13 @@
+__pycache__
+/dataset
+
+model.h5
+model_vgg.h5
+*.h5
+
+
+.venv
+
+./build
+
+./data_mining.egg-info
